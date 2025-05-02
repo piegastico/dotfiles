@@ -1,0 +1,13 @@
+background-color=#1d2021
+text-color=#fe8019
+border-color=#d65d0e
+border-size=1
+padding=8
+margin=10
+font=JetBrainsMono Nerd Font 14
+default-timeout=5000
+max-visible=5
+width=400
+anchor=top-right
+border-radius=9
+icons=true

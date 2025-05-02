@@ -1,0 +1,608 @@
+2025-04-20T22:39:17 exception: Failed to open "/home/kaiky.cvr/.config/mpd/mpdstate": No such file or directory
+2025-04-20T22:39:17 config: option "path" on line 13 was not recognized
+2025-04-20T22:39:17 update: added /Metallica - Master of Puppets (Remastered).flac
+2025-04-20T22:41:04 config: option "buffer_time" on line 12 was not recognized
+2025-04-20T22:41:04 config: option "path" on line 13 was not recognized
+2025-04-20T22:42:43 config: option "buffer_time" on line 12 was not recognized
+2025-04-20T22:42:43 config: option "path" on line 13 was not recognized
+2025-04-20T22:44:33 config: option "buffer_time" on line 12 was not recognized
+2025-04-20T22:44:33 config: option "path" on line 13 was not recognized
+2025-04-20T22:44:40 exception: Failed to commit /home/kaiky.cvr/.config/mpd/mpdstate: File exists
+2025-04-20T22:44:58 config: option "buffer_time" on line 12 was not recognized
+2025-04-20T22:44:58 config: option "path" on line 13 was not recognized
+2025-04-20T22:55:42 player: played "Metallica - Master of Puppets (Remastered).flac"
+2025-04-20T22:58:37 player: played "Metallica - Master of Puppets (Remastered).flac"
+2025-04-20T22:58:59 player: played "Metallica - Master of Puppets (Remastered).flac"
+2025-04-23T02:10:45 exception: Failed to commit /home/kaiky.cvr/.config/mpd/mpdstate: File exists
+2025-04-23T02:11:03 update: added /1. Joanna Newsom - Emily.flac
+2025-04-23T02:11:03 update: added Joanna Newsom - Ys (2006).zip/1. Joanna Newsom - Emily.flac
+2025-04-23T02:11:03 update: added Joanna Newsom - Ys (2006).zip/2. Joanna Newsom - Monkey & Bear.flac
+2025-04-23T02:11:03 update: added Joanna Newsom - Ys (2006).zip/3. Joanna Newsom - Sawdust & Diamonds.flac
+2025-04-23T02:11:03 update: added Joanna Newsom - Ys (2006).zip/4. Joanna Newsom - Only Skin.flac
+2025-04-23T02:11:03 update: added Joanna Newsom - Ys (2006).zip/5. Joanna Newsom - Cosmia.flac
+2025-04-23T02:11:03 update: added /4. Joanna Newsom - Only Skin.flac
+2025-04-23T02:11:03 update: added /5. Joanna Newsom - Cosmia.flac
+2025-04-23T02:11:03 update: added /2. Joanna Newsom - Monkey & Bear.flac
+2025-04-23T02:11:03 update: added /3. Joanna Newsom - Sawdust & Diamonds.flac
+2025-04-23T02:11:03 update: removing Metallica - Master of Puppets (Remastered).flac
+2025-04-23T02:13:20 exception: Failed to commit /home/kaiky.cvr/.config/mpd/mpdstate: File exists
+2025-04-25T16:10:08 exception: Failed to commit /home/kaiky.cvr/.config/mpd/mpdstate: File exists
+2025-04-25T16:13:03 event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+2025-04-25T16:13:03 state_file: Loading state file /home/kaiky.cvr/.config/mpd/mpdstate
+2025-04-25T16:13:03 inotify: initializing inotify
+2025-04-25T16:13:03 inotify: watching music directory
+2025-04-25T16:14:42 state_file: Saving state file /home/kaiky.cvr/.config/mpd/mpdstate
+2025-04-25T16:20:45 player: played "4. Joanna Newsom - Only Skin.flac"
+2025-04-25T16:20:49 exception: Not playing
+2025-04-25T16:20:50 exception: Not playing
+2025-04-25T16:21:00 player: played "3. Joanna Newsom - Sawdust & Diamonds.flac"
+2025-04-25T16:31:17 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-25T16:37:22 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-25T16:53:42 player: played "2. Joanna Newsom - Monkey & Bear.flac"
+2025-04-25T16:57:20 player: played "4. Joanna Newsom - Only Skin.flac"
+2025-04-25T17:00:31 player: played "4. Joanna Newsom - Only Skin.flac"
+2025-04-25T17:08:48 player: played "1. Joanna Newsom - Emily.flac"
+2025-04-25T17:23:14 player: played "4. Joanna Newsom - Only Skin.flac"
+2025-04-25T20:50:42 player: played "4. Joanna Newsom - Only Skin.flac"
+2025-04-25T20:57:59 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-25T21:06:00 player: played "1. Joanna Newsom - Emily.flac"
+2025-04-26T03:37:09 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-26T03:43:39 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-26T03:51:57 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-26T04:02:27 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-26T15:02:26 update: added /Deftones - Diamond Eyes.flac
+2025-04-26T15:03:18 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T15:12:16 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T15:20:02 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T15:25:46 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T15:33:50 player: played "5. Joanna Newsom - Cosmia.flac"
+2025-04-26T15:36:59 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T15:45:41 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T16:03:34 player: played "1. Joanna Newsom - Emily.flac"
+2025-04-26T16:11:57 player: played "Deftones - Diamond Eyes.flac"
+2025-04-26T16:23:32 update: removing 5. Joanna Newsom - Cosmia.flac
+2025-04-26T16:23:32 update: removing 4. Joanna Newsom - Only Skin.flac
+2025-04-26T16:23:32 update: removing 3. Joanna Newsom - Sawdust & Diamonds.flac
+2025-04-26T16:23:32 update: removing 2. Joanna Newsom - Monkey & Bear.flac
+2025-04-26T16:23:32 update: removing 1. Joanna Newsom - Emily.flac
+2025-04-26T16:23:32 update: removing Deftones - Diamond Eyes.flac
+2025-04-26T16:23:32 update: removing Joanna Newsom - Ys (2006).zip/5. Joanna Newsom - Cosmia.flac
+2025-04-26T16:23:32 update: removing Joanna Newsom - Ys (2006).zip/4. Joanna Newsom - Only Skin.flac
+2025-04-26T16:23:32 update: removing Joanna Newsom - Ys (2006).zip/3. Joanna Newsom - Sawdust & Diamonds.flac
+2025-04-26T16:23:32 update: removing Joanna Newsom - Ys (2006).zip/2. Joanna Newsom - Monkey & Bear.flac
+2025-04-26T16:23:32 update: removing Joanna Newsom - Ys (2006).zip/1. Joanna Newsom - Emily.flac
+2025-04-26T20:11:12 exception: Failed to open ZIP file "/home/kaiky.cvr/Músicas/TOOL - Lateralus.zip"
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/01 The Grudge.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/02 Eon Blue Apocalypse.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/03 The Patient.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/04 Mantra.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/05 Schism.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/06 Parabol.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/07 Parabola.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/08 Ticks & Leeches.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/09 Lateralus.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/10 Disposition.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/11 Reflection.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/12 Triad.flac
+2025-04-26T20:11:18 update: added TOOL - Lateralus.zip/13 Faaip De Oiad.flac
+2025-04-26T20:12:01 update: added /11 Reflection.flac
+2025-04-26T20:12:01 update: added /02 Eon Blue Apocalypse.flac
+2025-04-26T20:12:01 update: added /03 The Patient.flac
+2025-04-26T20:12:01 update: added /08 Ticks & Leeches.flac
+2025-04-26T20:12:01 update: added /13 Faaip De Oiad.flac
+2025-04-26T20:12:01 update: added /07 Parabola.flac
+2025-04-26T20:12:01 update: added /06 Parabol.flac
+2025-04-26T20:12:01 update: added /05 Schism.flac
+2025-04-26T20:12:01 update: added /01 The Grudge.flac
+2025-04-26T20:12:01 update: added /12 Triad.flac
+2025-04-26T20:12:01 update: added /10 Disposition.flac
+2025-04-26T20:12:01 update: added /04 Mantra.flac
+2025-04-26T20:12:01 update: added /09 Lateralus.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/13 Faaip De Oiad.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/12 Triad.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/11 Reflection.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/10 Disposition.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/09 Lateralus.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/08 Ticks & Leeches.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/07 Parabola.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/06 Parabol.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/05 Schism.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/04 Mantra.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/03 The Patient.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/02 Eon Blue Apocalypse.flac
+2025-04-26T20:12:01 update: removing TOOL - Lateralus.zip/01 The Grudge.flac
+2025-04-26T20:21:48 player: played "01 The Grudge.flac"
+2025-04-26T20:22:52 player: played "02 Eon Blue Apocalypse.flac"
+2025-04-26T20:30:06 player: played "03 The Patient.flac"
+2025-04-26T20:31:19 player: played "04 Mantra.flac"
+2025-04-26T20:38:06 player: played "05 Schism.flac"
+2025-04-26T20:41:11 player: played "06 Parabol.flac"
+2025-04-26T20:47:15 player: played "07 Parabola.flac"
+2025-04-26T20:55:25 player: played "08 Ticks & Leeches.flac"
+2025-04-26T20:56:28 player: played "09 Lateralus.flac"
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/01 Back to School (Mini Maggit).flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/02 Feiticeira.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/03 Digital Bath.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/04 Elite.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/05 Rx Queen.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/06 Street Carp.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/07 Teenager.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/08 Knife Prty.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/09 Korea.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/10 Passenger.flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/11 Change (In the House of Flies).flac
+2025-04-26T21:07:56 update: added Deftones - White Pony.zip/12 Pink Maggit.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/11 Reflection.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/02 Eon Blue Apocalypse.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/03 The Patient.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/08 Ticks & Leeches.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/13 Faaip De Oiad.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/07 Parabola.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/06 Parabol.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/05 Schism.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/01 The Grudge.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/12 Triad.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/10 Disposition.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/04 Mantra.flac
+2025-04-26T21:08:12 update: added Tool - Lateralus/09 Lateralus.flac
+2025-04-26T21:08:31 update: added /08 Knife Prty.flac
+2025-04-26T21:08:31 update: added /09 Korea.flac
+2025-04-26T21:08:31 update: added /02 Feiticeira.flac
+2025-04-26T21:08:31 update: added /10 Passenger.flac
+2025-04-26T21:08:31 update: added /06 Street Carp.flac
+2025-04-26T21:08:31 update: added /11 Change (In the House of Flies).flac
+2025-04-26T21:08:31 update: added /07 Teenager.flac
+2025-04-26T21:08:31 update: added /03 Digital Bath.flac
+2025-04-26T21:08:31 update: added /04 Elite.flac
+2025-04-26T21:08:31 update: added /12 Pink Maggit.flac
+2025-04-26T21:08:31 update: added /05 Rx Queen.flac
+2025-04-26T21:08:31 update: added /01 Back to School (Mini Maggit).flac
+2025-04-26T21:08:31 update: removing 13 Faaip De Oiad.flac
+2025-04-26T21:08:31 update: removing 12 Triad.flac
+2025-04-26T21:08:31 update: removing 11 Reflection.flac
+2025-04-26T21:08:31 update: removing 10 Disposition.flac
+2025-04-26T21:08:31 update: removing 09 Lateralus.flac
+2025-04-26T21:08:31 update: removing 08 Ticks & Leeches.flac
+2025-04-26T21:08:31 update: removing 07 Parabola.flac
+2025-04-26T21:08:31 update: removing 06 Parabol.flac
+2025-04-26T21:08:31 update: removing 05 Schism.flac
+2025-04-26T21:08:31 update: removing 04 Mantra.flac
+2025-04-26T21:08:31 update: removing 03 The Patient.flac
+2025-04-26T21:08:31 update: removing 02 Eon Blue Apocalypse.flac
+2025-04-26T21:08:31 update: removing 01 The Grudge.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/08 Knife Prty.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/09 Korea.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/02 Feiticeira.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/10 Passenger.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/06 Street Carp.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/11 Change (In the House of Flies).flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/07 Teenager.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/03 Digital Bath.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/04 Elite.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/12 Pink Maggit.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/05 Rx Queen.flac
+2025-04-26T21:08:56 update: added Deftones - White Pony/01 Back to School (Mini Maggit).flac
+2025-04-26T21:09:07 update: removing 12 Pink Maggit.flac
+2025-04-26T21:09:07 update: removing 11 Change (In the House of Flies).flac
+2025-04-26T21:09:07 update: removing 10 Passenger.flac
+2025-04-26T21:09:07 update: removing 09 Korea.flac
+2025-04-26T21:09:07 update: removing 08 Knife Prty.flac
+2025-04-26T21:09:07 update: removing 07 Teenager.flac
+2025-04-26T21:09:07 update: removing 06 Street Carp.flac
+2025-04-26T21:09:07 update: removing 05 Rx Queen.flac
+2025-04-26T21:09:07 update: removing 04 Elite.flac
+2025-04-26T21:09:07 update: removing 03 Digital Bath.flac
+2025-04-26T21:09:07 update: removing 02 Feiticeira.flac
+2025-04-26T21:09:07 update: removing 01 Back to School (Mini Maggit).flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/12 Pink Maggit.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/11 Change (In the House of Flies).flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/10 Passenger.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/09 Korea.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/08 Knife Prty.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/07 Teenager.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/06 Street Carp.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/05 Rx Queen.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/04 Elite.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/03 Digital Bath.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/02 Feiticeira.flac
+2025-04-26T21:09:07 update: removing Deftones - White Pony.zip/01 Back to School (Mini Maggit).flac
+2025-04-26T21:13:49 player: played "Deftones - White Pony/01 Back to School (Mini Maggit).flac"
+2025-04-26T21:15:42 player: played "Deftones - White Pony/02 Feiticeira.flac"
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/01 The Genesis.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/02 N.Y. State of Mind.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/03 Life's a Bitch.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/04 The World Is Yours.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/05 Halftime.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/06 Memory Lane (Sittin' in da Park).flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/07 One Love.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/08 One Time 4 Your Mind.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/09 Represent.flac
+2025-04-26T21:35:29 update: added Nas - Illmatic.zip/10 It Ain't Hard to Tell.flac
+2025-04-26T21:35:49 update: added /04 The World Is Yours.flac
+2025-04-26T21:35:49 update: added /06 Memory Lane (Sittin' in da Park).flac
+2025-04-26T21:35:49 update: added /08 One Time 4 Your Mind.flac
+2025-04-26T21:35:49 update: added /02 N.Y. State of Mind.flac
+2025-04-26T21:35:49 update: added /01 The Genesis.flac
+2025-04-26T21:35:49 update: added /05 Halftime.flac
+2025-04-26T21:35:49 update: added /10 It Ain't Hard to Tell.flac
+2025-04-26T21:35:49 update: added /09 Represent.flac
+2025-04-26T21:35:49 update: added /03 Life's a Bitch.flac
+2025-04-26T21:35:49 update: added /07 One Love.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/10 It Ain't Hard to Tell.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/09 Represent.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/08 One Time 4 Your Mind.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/07 One Love.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/06 Memory Lane (Sittin' in da Park).flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/05 Halftime.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/04 The World Is Yours.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/03 Life's a Bitch.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/02 N.Y. State of Mind.flac
+2025-04-26T21:36:35 update: removing Nas - Illmatic.zip/01 The Genesis.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/04 The World Is Yours.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/06 Memory Lane (Sittin' in da Park).flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/08 One Time 4 Your Mind.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/02 N.Y. State of Mind.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/01 The Genesis.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/05 Halftime.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/10 It Ain't Hard to Tell.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/09 Represent.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/03 Life's a Bitch.flac
+2025-04-26T21:36:40 update: added Nas - Illmatic/07 One Love.flac
+2025-04-26T21:36:40 update: removing 01 The Genesis.flac
+2025-04-26T21:36:40 update: removing 02 N.Y. State of Mind.flac
+2025-04-26T21:36:40 update: removing 03 Life's a Bitch.flac
+2025-04-26T21:36:40 update: removing 04 The World Is Yours.flac
+2025-04-26T21:36:40 update: removing 05 Halftime.flac
+2025-04-26T21:36:40 update: removing 06 Memory Lane (Sittin' in da Park).flac
+2025-04-26T21:36:40 update: removing 07 One Love.flac
+2025-04-26T21:36:40 update: removing 08 One Time 4 Your Mind.flac
+2025-04-26T21:36:40 update: removing 09 Represent.flac
+2025-04-26T21:36:40 update: removing 10 It Ain't Hard to Tell.flac
+2025-04-26T21:38:39 player: played "Nas - Illmatic/01 The Genesis.flac"
+2025-04-26T21:43:33 player: played "Nas - Illmatic/02 N.Y. State of Mind.flac"
+2025-04-26T21:45:06 player: played "Nas - Illmatic/03 Life's a Bitch.flac"
+2025-04-26T22:44:27 exception: Failed to open ZIP file "/home/kaiky.cvr/Músicas/Nirvana - In Utero.zip"
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/01 Serve The Servants (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/02 Scentless Apprentice (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/03 Heart-Shaped Box (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/04 Rape Me (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/06 Dumb (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/07 Very Ape (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/08 Milk It (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/09 Pennyroyal Tea (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/11 Tourette's (Album Version).flac
+2025-04-26T22:44:33 update: added Nirvana - In Utero.zip/12 All Apologies (Album Version).flac
+2025-04-26T22:44:51 update: added /07 Very Ape (Album Version).flac
+2025-04-26T22:44:51 update: added /10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-26T22:44:51 update: added /04 Rape Me (Album Version).flac
+2025-04-26T22:44:51 update: added /12 All Apologies (Album Version).flac
+2025-04-26T22:44:51 update: added /11 Tourette's (Album Version).flac
+2025-04-26T22:44:51 update: added /08 Milk It (Album Version).flac
+2025-04-26T22:44:51 update: added /05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-26T22:44:51 update: added /02 Scentless Apprentice (Album Version).flac
+2025-04-26T22:44:51 update: added /06 Dumb (Album Version).flac
+2025-04-26T22:44:51 update: added /03 Heart-Shaped Box (Album Version).flac
+2025-04-26T22:44:51 update: added /09 Pennyroyal Tea (Album Version).flac
+2025-04-26T22:44:51 update: added /01 Serve The Servants (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/07 Very Ape (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/04 Rape Me (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/12 All Apologies (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/11 Tourette's (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/08 Milk It (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/02 Scentless Apprentice (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/06 Dumb (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/03 Heart-Shaped Box (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/09 Pennyroyal Tea (Album Version).flac
+2025-04-26T22:45:00 update: added Nirvana - In Utero/01 Serve The Servants (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/01 Serve The Servants (Album Version).flac
+2025-04-26T22:47:54 update: removing 12 All Apologies (Album Version).flac
+2025-04-26T22:47:54 update: removing 11 Tourette's (Album Version).flac
+2025-04-26T22:47:54 update: removing 10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-26T22:47:54 update: removing 09 Pennyroyal Tea (Album Version).flac
+2025-04-26T22:47:54 update: removing 08 Milk It (Album Version).flac
+2025-04-26T22:47:54 update: removing 07 Very Ape (Album Version).flac
+2025-04-26T22:47:54 update: removing 06 Dumb (Album Version).flac
+2025-04-26T22:47:54 update: removing 05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-26T22:47:54 update: removing 04 Rape Me (Album Version).flac
+2025-04-26T22:47:54 update: removing 03 Heart-Shaped Box (Album Version).flac
+2025-04-26T22:47:54 update: removing 02 Scentless Apprentice (Album Version).flac
+2025-04-26T22:47:54 update: removing 01 Serve The Servants (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/12 All Apologies (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/11 Tourette's (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/09 Pennyroyal Tea (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/08 Milk It (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/07 Very Ape (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/06 Dumb (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/04 Rape Me (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/03 Heart-Shaped Box (Album Version).flac
+2025-04-26T22:47:54 update: removing Nirvana - In Utero.zip/02 Scentless Apprentice (Album Version).flac
+2025-04-26T22:53:11 player: played "Nirvana - In Utero/03 Heart-Shaped Box (Album Version).flac"
+2025-04-26T22:53:17 player: played "Nirvana - In Utero/04 Rape Me (Album Version).flac"
+2025-04-26T22:55:25 player: played "Nas - Illmatic/06 Memory Lane (Sittin' in da Park).flac"
+2025-04-26T23:00:16 player: played "Nas - Illmatic/01 The Genesis.flac"
+2025-04-26T23:04:09 player: played "Tool - Lateralus/12 Triad.flac"
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/01 Medo de avião.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/02 Retórica sentimental.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/03 Brasileiramente linda.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/04 Pequeno perfil de um cidadão comum.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/05 Tudo outra vez.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/06 Conheço o meu lugar.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/07 Comentário a respeito de John.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/08 Voz da américa.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/09 Espacial.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/10 Meu cordial brasileiro.flac
+2025-04-27T02:34:15 update: added Belchior - Belchior ou era uma vez um homem e seu tempo.zip/11 Medo de avião II.flac
+2025-04-27T02:34:43 update: added /03 Brasileiramente linda.flac
+2025-04-27T02:34:43 update: added /05 Tudo outra vez.flac
+2025-04-27T02:34:43 update: added /07 Coment├бrio a respeito de John.flac
+2025-04-27T02:34:43 update: added /08 Voz da am├йrica.flac
+2025-04-27T02:34:43 update: added /02 Ret├│rica sentimental.flac
+2025-04-27T02:34:43 update: added /04 Pequeno perfil de um cidad├гo comum.flac
+2025-04-27T02:34:43 update: added /09 Espacial.flac
+2025-04-27T02:34:43 update: added /01 Medo de avi├гo.flac
+2025-04-27T02:34:43 update: added /06 Conhe├зo o meu lugar.flac
+2025-04-27T02:34:43 update: added /10 Meu cordial brasileiro.flac
+2025-04-27T02:34:43 update: added /11 Medo de avi├гo II.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/11 Medo de avião II.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/10 Meu cordial brasileiro.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/09 Espacial.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/08 Voz da américa.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/07 Comentário a respeito de John.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/06 Conheço o meu lugar.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/05 Tudo outra vez.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/04 Pequeno perfil de um cidadão comum.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/03 Brasileiramente linda.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/02 Retórica sentimental.flac
+2025-04-27T02:34:43 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo.zip/01 Medo de avião.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/03 Brasileiramente linda.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/05 Tudo outra vez.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/07 Coment├бrio a respeito de John.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/08 Voz da am├йrica.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/02 Ret├│rica sentimental.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/04 Pequeno perfil de um cidad├гo comum.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/09 Espacial.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/01 Medo de avi├гo.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/06 Conhe├зo o meu lugar.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/10 Meu cordial brasileiro.flac
+2025-04-27T02:34:56 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/11 Medo de avi├гo II.flac
+2025-04-27T02:36:30 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/01 Medo de avião.flac
+2025-04-27T02:36:30 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/01 Medo de avi├гo.flac
+2025-04-27T02:36:38 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/02 Retórica sentimental.flac
+2025-04-27T02:36:38 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/02 Ret├│rica sentimental.flac
+2025-04-27T02:36:53 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/04 Pequeno perfil de um cidadão comum.flac
+2025-04-27T02:36:53 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/04 Pequeno perfil de um cidad├гo comum.flac
+2025-04-27T02:37:10 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/06 Conheço o meu lugar.flac
+2025-04-27T02:37:10 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/06 Conhe├зo o meu lugar.flac
+2025-04-27T02:37:19 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/07 Comentário a respeito de John.flac
+2025-04-27T02:37:19 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/07 Coment├бrio a respeito de John.flac
+2025-04-27T02:37:31 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/08 Voz da américa.flac
+2025-04-27T02:37:31 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/08 Voz da am├йrica.flac
+2025-04-27T02:37:41 update: added Belchior - Belchior ou era uma vez um homem e seu tempo/11 Medo de avião II.flac
+2025-04-27T02:37:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/11 Medo de avi├гo II.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/01 Tudo O Que Você Podia Ser.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/02 Cais.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/03 O Trem Azul.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/04 Saídas E Bandeiras Nº 1.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/05 Nuvem Cigana.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/06 Cravo E Canela.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/07 Dos Cruces.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/09 San Vicente.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/10 Estrelas.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/11 Clube Da Esquina Nº 2.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/12 Paisagem Da Janela.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/13 Me Deixa Em Paz.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/14 Os Povos.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/15 Saídas E Bandeiras Nº 2.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/16 Um Gosto De Sol.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/17 Pelo Amor De Deus.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/18 Lilia.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/19 Trem De Doido.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/20 Nada Será Como Antes.flac
+2025-04-27T02:38:05 update: added Milton Nascimento, Lô Borges - Clube Da Esquina.zip/21 Ao Que Vai Nascer.flac
+2025-04-27T02:38:05 update: removing 11 Medo de avi├гo II.flac
+2025-04-27T02:38:05 update: removing 10 Meu cordial brasileiro.flac
+2025-04-27T02:38:05 update: removing 09 Espacial.flac
+2025-04-27T02:38:05 update: removing 08 Voz da am├йrica.flac
+2025-04-27T02:38:05 update: removing 07 Coment├бrio a respeito de John.flac
+2025-04-27T02:38:05 update: removing 06 Conhe├зo o meu lugar.flac
+2025-04-27T02:38:05 update: removing 05 Tudo outra vez.flac
+2025-04-27T02:38:05 update: removing 04 Pequeno perfil de um cidad├гo comum.flac
+2025-04-27T02:38:05 update: removing 03 Brasileiramente linda.flac
+2025-04-27T02:38:05 update: removing 02 Ret├│rica sentimental.flac
+2025-04-27T02:38:05 update: removing 01 Medo de avi├гo.flac
+2025-04-27T02:38:45 update: added /16 Um Gosto De Sol.flac
+2025-04-27T02:38:45 update: added /11 Clube Da Esquina N┬║ 2.flac
+2025-04-27T02:38:45 update: added /04 Sa├нdas E Bandeiras N┬║ 1.flac
+2025-04-27T02:38:45 update: added /07 Dos Cruces.flac
+2025-04-27T02:38:45 update: added /18 Lilia.flac
+2025-04-27T02:38:45 update: added /19 Trem De Doido.flac
+2025-04-27T02:38:45 update: added /10 Estrelas.flac
+2025-04-27T02:38:45 update: added /05 Nuvem Cigana.flac
+2025-04-27T02:38:45 update: added /02 Cais.flac
+2025-04-27T02:38:45 update: added /08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:38:45 update: added /21 Ao Que Vai Nascer.flac
+2025-04-27T02:38:45 update: added /20 Nada Ser├б Como Antes.flac
+2025-04-27T02:38:45 update: added /09 San Vicente.flac
+2025-04-27T02:38:45 update: added /12 Paisagem Da Janela.flac
+2025-04-27T02:38:45 update: added /17 Pelo Amor De Deus.flac
+2025-04-27T02:38:45 update: added /03 O Trem Azul.flac
+2025-04-27T02:38:45 update: added /06 Cravo E Canela.flac
+2025-04-27T02:38:45 update: added /14 Os Povos.flac
+2025-04-27T02:38:45 update: added /01 Tudo O Que Voc├к Podia Ser.flac
+2025-04-27T02:38:45 update: added /15 Sa├нdas E Bandeiras N┬║ 2.flac
+2025-04-27T02:38:45 update: added /13 Me Deixa Em Paz.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/21 Ao Que Vai Nascer.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/20 Nada Será Como Antes.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/19 Trem De Doido.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/18 Lilia.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/17 Pelo Amor De Deus.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/16 Um Gosto De Sol.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/15 Saídas E Bandeiras Nº 2.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/14 Os Povos.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/13 Me Deixa Em Paz.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/12 Paisagem Da Janela.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/11 Clube Da Esquina Nº 2.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/10 Estrelas.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/09 San Vicente.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/07 Dos Cruces.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/06 Cravo E Canela.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/05 Nuvem Cigana.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/04 Saídas E Bandeiras Nº 1.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/03 O Trem Azul.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/02 Cais.flac
+2025-04-27T02:38:45 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina.zip/01 Tudo O Que Você Podia Ser.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/16 Um Gosto De Sol.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/11 Clube Da Esquina N┬║ 2.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/04 Sa├нdas E Bandeiras N┬║ 1.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/07 Dos Cruces.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/18 Lilia.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/19 Trem De Doido.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/10 Estrelas.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/05 Nuvem Cigana.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/02 Cais.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/21 Ao Que Vai Nascer.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/20 Nada Ser├б Como Antes.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/09 San Vicente.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/12 Paisagem Da Janela.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/17 Pelo Amor De Deus.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/03 O Trem Azul.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/06 Cravo E Canela.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/14 Os Povos.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/01 Tudo O Que Voc├к Podia Ser.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/15 Sa├нdas E Bandeiras N┬║ 2.flac
+2025-04-27T02:38:51 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/13 Me Deixa Em Paz.flac
+2025-04-27T02:39:06 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/01 Tudo O Que Você Podia Ser.flac
+2025-04-27T02:39:06 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/01 Tudo O Que Voc├к Podia Ser.flac
+2025-04-27T02:40:07 update: added Milton Nascimento, Lô Borges - Clube Da Esquina/04 Saídas E Bandeiras N┬║ 1.flac
+2025-04-27T02:40:07 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/04 Sa├нdas E Bandeiras N┬║ 1.flac
+2025-04-27T02:40:52 update: removing 21 Ao Que Vai Nascer.flac
+2025-04-27T02:40:52 update: removing 20 Nada Ser├б Como Antes.flac
+2025-04-27T02:40:52 update: removing 19 Trem De Doido.flac
+2025-04-27T02:40:52 update: removing 18 Lilia.flac
+2025-04-27T02:40:52 update: removing 17 Pelo Amor De Deus.flac
+2025-04-27T02:40:52 update: removing 16 Um Gosto De Sol.flac
+2025-04-27T02:40:52 update: removing 15 Sa├нdas E Bandeiras N┬║ 2.flac
+2025-04-27T02:40:52 update: removing 14 Os Povos.flac
+2025-04-27T02:40:52 update: removing 13 Me Deixa Em Paz.flac
+2025-04-27T02:40:52 update: removing 12 Paisagem Da Janela.flac
+2025-04-27T02:40:52 update: removing 11 Clube Da Esquina N┬║ 2.flac
+2025-04-27T02:40:52 update: removing 10 Estrelas.flac
+2025-04-27T02:40:52 update: removing 09 San Vicente.flac
+2025-04-27T02:40:52 update: removing 08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:40:52 update: removing 07 Dos Cruces.flac
+2025-04-27T02:40:52 update: removing 06 Cravo E Canela.flac
+2025-04-27T02:40:52 update: removing 05 Nuvem Cigana.flac
+2025-04-27T02:40:52 update: removing 04 Sa├нdas E Bandeiras N┬║ 1.flac
+2025-04-27T02:40:52 update: removing 03 O Trem Azul.flac
+2025-04-27T02:40:52 update: removing 02 Cais.flac
+2025-04-27T02:40:52 update: removing 01 Tudo O Que Voc├к Podia Ser.flac
+2025-04-27T02:43:51 player: played "Belchior - Belchior ou era uma vez um homem e seu tempo/01 Medo de avião.flac"
+2025-04-27T02:47:49 player: played "Deftones - White Pony/01 Back to School (Mini Maggit).flac"
+2025-04-27T02:51:22 player: played "Tool - Lateralus/03 The Patient.flac"
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/08 Um Girassol Da Cor Do Seu Cabelo.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/07 Dos Cruces.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/06 Cravo E Canela.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/05 Nuvem Cigana.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/04 Saídas E Bandeiras N┬║ 1.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/03 O Trem Azul.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/02 Cais.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/01 Tudo O Que Você Podia Ser.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/12 Pink Maggit.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/11 Change (In the House of Flies).flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/10 Passenger.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/09 Korea.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/08 Knife Prty.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/07 Teenager.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/06 Street Carp.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/05 Rx Queen.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/04 Elite.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/03 Digital Bath.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/02 Feiticeira.flac
+2025-04-27T02:51:41 update: removing Deftones - White Pony/01 Back to School (Mini Maggit).flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/11 Medo de avião II.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/10 Meu cordial brasileiro.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/09 Espacial.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/08 Voz da américa.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/07 Comentário a respeito de John.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/06 Conheço o meu lugar.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/05 Tudo outra vez.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/04 Pequeno perfil de um cidadão comum.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/03 Brasileiramente linda.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/02 Retórica sentimental.flac
+2025-04-27T02:51:41 update: removing Belchior - Belchior ou era uma vez um homem e seu tempo/01 Medo de avião.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/13 Faaip De Oiad.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/12 Triad.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/11 Reflection.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/10 Disposition.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/09 Lateralus.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/08 Ticks & Leeches.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/07 Parabola.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/06 Parabol.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/05 Schism.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/04 Mantra.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/03 The Patient.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/02 Eon Blue Apocalypse.flac
+2025-04-27T02:51:41 update: removing Tool - Lateralus/01 The Grudge.flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/12 All Apologies (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/11 Tourette's (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/10 Radio Friendly Unit Shifter (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/09 Pennyroyal Tea (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/08 Milk It (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/07 Very Ape (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/06 Dumb (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/05 Frances Farmer Will Have Her Revenge On Seattle (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/04 Rape Me (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/03 Heart-Shaped Box (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/02 Scentless Apprentice (Album Version).flac
+2025-04-27T02:51:41 update: removing Nirvana - In Utero/01 Serve The Servants (Album Version).flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/10 It Ain't Hard to Tell.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/09 Represent.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/08 One Time 4 Your Mind.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/07 One Love.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/06 Memory Lane (Sittin' in da Park).flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/05 Halftime.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/04 The World Is Yours.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/03 Life's a Bitch.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/02 N.Y. State of Mind.flac
+2025-04-27T02:51:41 update: removing Nas - Illmatic/01 The Genesis.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/21 Ao Que Vai Nascer.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/20 Nada Ser├б Como Antes.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/19 Trem De Doido.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/18 Lilia.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/17 Pelo Amor De Deus.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/16 Um Gosto De Sol.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/15 Sa├нdas E Bandeiras N┬║ 2.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/14 Os Povos.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/13 Me Deixa Em Paz.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/12 Paisagem Da Janela.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/11 Clube Da Esquina N┬║ 2.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/10 Estrelas.flac
+2025-04-27T02:51:41 update: removing Milton Nascimento, Lô Borges - Clube Da Esquina/09 San Vicente.flac
+2025-04-27T02:51:50 update: added /Secos & Molhados - Sangue latino.flac
+2025-04-27T02:53:39 update: added /Milton Nascimento, Lô Borges - Paisagem Da Janela.flac
+2025-04-27T02:54:04 player: played "Secos & Molhados - Sangue latino.flac"
+2025-04-27T02:55:42 update: added /Djavan - Samurai.flac
+2025-04-27T02:57:02 player: played "Milton Nascimento, Lô Borges - Paisagem Da Janela.flac"
+2025-04-27T03:00:04 update: added /Chitãozinho & Xororó - Sinônimos.flac
+2025-04-27T03:01:51 player: played "Djavan - Samurai.flac"
+2025-04-27T03:02:33 update: added /Geraldo Vandrè - Pra não dizer que não falei das flores.flac
+2025-04-27T03:06:34 player: played "Chitãozinho & Xororó - Sinônimos.flac"
+2025-04-27T03:11:00 update: removing Secos & Molhados - Sangue latino.flac
+2025-04-27T03:11:00 update: removing Djavan - Samurai.flac
+2025-04-27T03:11:00 update: removing Milton Nascimento, Lô Borges - Paisagem Da Janela.flac
+2025-04-27T03:11:00 update: removing Chitãozinho & Xororó - Sinônimos.flac
+2025-04-27T03:11:54 player: played "Geraldo Vandrè - Pra não dizer que não falei das flores.flac"
+2025-04-27T03:12:02 update: removing Geraldo Vandrè - Pra não dizer que não falei das flores.flac
+2025-04-30T19:41:43 update: added /Chat Pile - Why.flac
+2025-04-30T19:45:24 player: played "Chat Pile - Why.flac"
+2025-04-30T19:49:09 player: played "Chat Pile - Why.flac"
+2025-04-30T21:25:38 update: removing Chat Pile - Why.flac

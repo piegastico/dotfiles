@@ -1,0 +1,62 @@
+/* Gruvbox Theme */
+.e-9640-button-primary:hover .e-9640-button-primary__inner {
+	background-color: #fe8019;
+}
+
+.main-home-filterChipsContainer {
+	background-color: #282828;
+}
+
+.main-nowPlayingView-contextItemInfo:before {
+    display: none !important;
+}
+
+.progress-bar {
+    --fg-color: var(--spice-button-active);
+}
+
+.main-home-homeHeader {
+    background: none !important;
+}
+
+.main-home-filterChipsSection {
+    display: none !important;
+}
+
+.x-progressBar-progressBarBg { 
+	height: 100% !important; 
+} 
+
+.x-progressBar-sliderArea { 
+	height: 100% !important; 
+} 
+
+.x-progressBar-fillColor { 
+	height: 100% !important; 
+}
+
+.player-controls .playback-progressbar::before { 
+	content: ''; 
+	width: 32px; 
+	height: 32px; 
+	bottom: calc(100% + 0px); 
+	right: 10px; 
+	position: absolute; 
+	image-rendering: pixelated; 
+	background-size: 32px 32px; 
+	background-image: url('https://media.tenor.com/KH-EXUKEh2UAAAAi/katana-zero-zero.gif');
+}
+
+.os-scrollbar-handle { 
+	width:0.25rem!important;
+	border-radius:10rem !important; 
+	transition: width 300ms ease-in-out; 
+} 
+
+.os-scrollbar-handle:focus,.os-scrollbar-handle:focus-within,.os-scrollbar-handle:hover { 
+	width:0.35rem!important 
+}
+
+.main-trackList-playingIcon {
+    filter: invert(47%) sepia(96%) saturate(1450%) hue-rotate(2deg) brightness(91%) contrast(106%);
+}

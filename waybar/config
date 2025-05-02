@@ -1,0 +1,66 @@
+{
+  "height": 30, 
+  "spacing": 2, 
+  "modules-left": [
+    "sway/workspaces",
+  ],
+  "modules-center": [
+    "sway/window"
+  ],
+  "modules-right": [
+    "tray",
+    "memory",
+    "cpu",
+    "pulseaudio",
+    "clock"
+  ],
+  "sway/workspaces": {
+    "disable-scroll": true,
+    "format": "{icon}",
+    "format-icons": {
+      "urgent": "",
+      "1": "I",
+      "2": "II",
+      "3": "III",
+      "4": "IV",
+      "5": "V",
+      "6": "VI",
+      "7": "VII",
+      "8": "VIII",
+      "9": "IX",
+      "10": "X"
+      }
+  },
+  "sway/window": {
+    "format": "{app_id}",
+  },
+  "tray": {
+    "icon-size": 20,
+    "spacing": 10,
+  },
+  "clock": {
+    "format": "<span rise='900'></span> {:%H:%M}",
+    "tooltip": false
+  },
+  "cpu": {
+    "format": "<span rise='475'></span> {usage}%",
+    "tooltip": false
+  },
+  "memory": {
+    "format": " {}%",
+    "tooltip": false
+  },
+  "pulseaudio": {
+    "format": "<span rise='600'>{icon}</span> {volume}%",
+    "format-muted": "<span rise='600'></span>",
+    "format-icons": {
+      "default": [
+        "<span rise='600'></span>",
+        "<span rise='600'></span>",
+        "<span rise='600'></span>"
+        ]
+    },
+    "on-click": "pavucontrol",
+    "tooltip": false
+  },
+}
